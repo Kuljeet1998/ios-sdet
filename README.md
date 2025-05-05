@@ -46,7 +46,7 @@ guard let url = URL(string: urlString), url.scheme != nil else {
     completion(.failure(.invalidUrl))
     return
 }
-
+```
 ##  2. test_fetchCountries_withNilData_shouldThrowInvalidDataError
 
 - **Module**: CountriesServiceTests  
@@ -71,7 +71,7 @@ guard let data = data, !data.isEmpty else {
     completion(.failure(.invalidData))
     return
 }
-
+```
 
 ## 3. testRefreshCountries_setsErrorThenSuccess
 
@@ -96,7 +96,7 @@ Ensure that the error is explicitly reset in the success path:
 ```swift
 self.error = nil
 self.countries = fetchedCountries
-
+```
 
 
 
