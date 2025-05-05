@@ -107,3 +107,6 @@ self.countries = fetchedCountries
 | Service Layer Tests     | 10    | 8      | 2      | 80%      |
 | ViewModel Logic Tests   | 19    | 18     | 1      | 95%      |
 | UI/Integration Tests    | 46    | 46     | 0      | 100%     |
+
+
+### `For deatiled summary`: Please refer the "Testing documentation" pdf
