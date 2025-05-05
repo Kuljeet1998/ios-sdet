@@ -109,4 +109,6 @@ self.countries = fetchedCountries
 | UI/Integration Tests    | 46    | 46     | 0      | 100%     |
 
 
-### `For deatiled summary`: Please refer the "Testing documentation" pdf
+### `For deatiled summary`: 
+Please refer [Testing documentation
+](https://drive.google.com/drive/folders/1u9fPXN-unJkfDMnG1QY2pIYGJiZn-G67)
